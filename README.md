@@ -14,5 +14,3 @@ Setup instructions for Microsoft SQL Server & Microsoft SQL Server Express
 8. Click Execute button (red exclamation mark and word Execute) to execute the SQL query
 9. Copy and paste contents if Populate
 10. Test it with SELECT * FROM Customers;
-
-Git Test
